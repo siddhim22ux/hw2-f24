@@ -81,11 +81,3 @@ footer {
     background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000); /* Gradient background */
     border: 5px solid #FFFFFF; /* 5px solid white border */
 }
-
-footer p {
-    font-size: 20px; /* 20px text */
-    text-align: right; /* Text aligned to the right */
-    border-bottom: 2px solid black; /* 2px bottom border */
-    border-left: 5px solid black; /* 5px left border */
-    padding: 15px 15px 15px 0; /* Padding on top, right, bottom only */
-}
